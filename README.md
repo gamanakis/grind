@@ -35,10 +35,13 @@ Export them in a table like the following:
 | B          | 2          | 6          | 12                  | 0.2   | HBV        |
 | C          | 3          | 7          | 13                  | 0.3   | HBV        |
 
+Marker-1 in this file means that only Marker-1 is expressed, without Marker-2.
+Marker-1/Marker-2 means that both markers are expressed.
 Save the file in csv format, name it Book1.csv, this is important.
 Copy it to the directory where the program has been downloaded.
 
-Run: 
+Change into the program's directory and run it: 
+cd mueller
 ./muller.py
 
 It will display the columns it detected in Book1.csv:
@@ -48,8 +51,8 @@ Marker-2
 Marker-1/Marker-2
 neg
 
-Then, it will ask:
-* for the column(s) that will be preserved in the new table,
+Then, the program will ask:
+* for the column(s) that should be preserved in the new table,
 here "Subject Virus" (these are usually the subjects and any columns to be used
 as overlays
 * for the delimiter between the markers, here the "/" was used
