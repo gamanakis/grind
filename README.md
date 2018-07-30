@@ -41,15 +41,19 @@ Save the file in csv format, name it Book1.csv, this is important.
 Copy it to the directory where the program has been downloaded.
 
 Change into the program's directory and run it: 
+```
 cd mueller
 ./muller.py
+```
 
 It will display the columns it detected in Book1.csv:
+```
 Subject
 Marker-1
 Marker-2
 Marker-1/Marker-2
 neg
+```
 
 Then, the program will ask:
 * for the column(s) that should be preserved in the new table,
