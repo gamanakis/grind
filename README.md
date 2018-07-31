@@ -36,8 +36,8 @@ Export them in a table like the following:
 | C          | 3          | 7          | 13                  | 0.3   | HBV        |
 
 Marker-1 in this file means that only Marker-1 is expressed, without Marker-2.
-Marker-1/Marker-2 means that both markers are expressed.Neg means that none of them
-Is expressed.
+Marker-1/Marker-2 means that both markers are expressed. Neg means that none of them
+are expressed.
 Save the file in csv format, name it Book1.csv, this is important.
 Copy it to the directory where the program has been downloaded.
 
