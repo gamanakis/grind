@@ -42,7 +42,7 @@ Copy it to the directory where the program has been downloaded.
 
 Change into the program's directory and run it: 
 ```
-cd mueller
+cd grind
 ./grind.py
 ```
 
