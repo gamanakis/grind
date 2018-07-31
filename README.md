@@ -1,16 +1,16 @@
-# Project Title
+# Grind
 
 This program converts exported table data from FlowJo to a format 
 suitable for use with SPICE (niaid.github.io/spice)
 
 ### Prerequisites
 
-What software is require for the program to run:
-* python3
-* pandas library
-* numpy library
+The program was written in Python3 and requires the following:
+* Python3
+* Pandas library
+* Numpy library
 
-The above python libraries along with python3 are installed by default on MacOSX.
+The above python libraries along with Python3 are installed by default on MacOSX.
 
 ### Installing
 
@@ -20,8 +20,8 @@ To install the program, clone its repository to a folder by running:
 git clone github.com/gamanakis/grind
 ```
 
-Otherwise, you can also grab the grind.py file along with LICENSE.txt and README.md
-from this repository and put them altogether in a folder.
+Otherwise, you can also download a ZIP file containing all necessary files
+from this repository and extract them altogether in a folder.
 
 ## Running
 
