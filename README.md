@@ -17,10 +17,10 @@ The above python libraries along with python3 are installed by default on MacOSX
 To install the program, clone its repository to a folder by running:
 
 ```
-git clone github.com/gamanakis/muller
+git clone github.com/gamanakis/grind
 ```
 
-Otherwise, you can also grab the muller.py file along with LICENSE.txt and README.md
+Otherwise, you can also grab the grind.py file along with LICENSE.txt and README.md
 from this repository and put them altogether in a folder.
 
 ## Running
@@ -43,7 +43,7 @@ Copy it to the directory where the program has been downloaded.
 Change into the program's directory and run it: 
 ```
 cd mueller
-./muller.py
+./grind.py
 ```
 
 It will display the columns it detected in Book1.csv:
