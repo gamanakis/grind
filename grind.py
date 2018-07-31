@@ -21,7 +21,7 @@ Created on Thu Mar 29 21:26:46 2018
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 """
-print("muller.py  Copyright (C) 2018 Georgios Amanakis (gamanakis@gmail.com)")
+print("grind.py  Copyright (C) 2018 Georgios Amanakis (gamanakis@gmail.com)")
 print("This program comes with ABSOLUTELY NO WARRANTY;")
 print("This is free software, licensed under GPLv3, and you are") 
 print("welcome to redistribute it under certain conditions; see LICENSE.txt\n") 
