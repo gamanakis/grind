@@ -53,6 +53,7 @@ Marker-1
 Marker-2
 Marker-1/Marker-2
 neg
+Virus
 ```
 
 Then, the program will ask:
