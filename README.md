@@ -41,9 +41,10 @@ are expressed.
 Save the file in csv format, name it Book1.csv, this is important.
 Copy it to the directory where the program has been downloaded.
 
-Change into the program's directory and run it: 
+Open a terminal, change into the program's directory and run it:
+(e.g. if you saved it in a folder named "grind" on the Desktop) 
 ```
-cd grind
+cd Desktop/grind
 ./grind.py
 ```
 
