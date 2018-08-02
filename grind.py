@@ -69,7 +69,7 @@ for i in reversed(range(len(stable))):
     col.remove(stable[i])
     col.insert(0, stable[i])
 col.append('Value')
-df = df[col]
+df = df[col].reset_index(drop=True)
 print("\nThe new columns' names are:\n")
 print('\n'.join(col), '\n')
 
